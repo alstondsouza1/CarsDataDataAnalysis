@@ -1,0 +1,475 @@
+Year,Make,Model,Used/New,Price,SellerType,State,InteriorColor,Drivetrain,MinMPG,MaxMPG,FuelType,Transmission
+2019,Toyota,Sienna SE,Used,"$39,998",Dealer,CA,Black,Front-wheel Drive,19,27,Gasoline,8-Speed Automatic
+2018,Ford,F-150 Lariat,Used,"$49,985",Dealer,CA,Black,Four-wheel Drive,19,24,Gasoline,10-Speed Automatic
+2017,RAM,1500 Laramie,Used,"$41,860",Dealer,CA,Black,Four-wheel Drive,15,21,Gasoline,8-Speed Automatic
+2020,Lexus,RX 350,Used,"$49,000",Dealer,NV,Birch,Front-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2017,Honda,HR-V LX,Used,"$20,995",Dealer,CA,Black,Front-wheel Drive,28,34,Gasoline,Automatic CVT
+2014,Mercedes-Benz,E-Class E 350,Used,"$18,985",Dealer,CA,Saffron,Rear-wheel Drive,21,30,Gasoline,7-Speed Automatic
+2021,Honda,Pilot Touring 8-Passenger,Used,"$44,299",Dealer,AZ,Beige,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2017,Lexus,RC 350 Base,Used,"$42,734",Dealer,AZ,Silver,Rear-wheel Drive,19,28,Gasoline,8-Speed Automatic
+2013,Lexus,GS 350 Base,Used,"$16,990",Dealer,AZ,Black,Rear-wheel Drive,19,28,Gasoline,6-Speed Automatic
+2017,Lexus,RX 350 RX 350,Used,"$36,450",Dealer,AZ,Gray,Front-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2020,Dodge,Charger Scat Pack,Used,"$41,000",Dealer,AZ,Black,Rear-wheel Drive,15,24,Gasoline,8-Speed Automatic
+2017,Lexus,RC 350 Base,Used,"$41,493",Dealer,AZ,Sport,Rear-wheel Drive,19,28,Gasoline,8-Speed Automatic
+2018,Ford,Explorer XLT,Used,"$32,995",Dealer,UT,Black,Four-wheel Drive,16,22,Gasoline,6-Speed Automatic
+2021,Subaru,Crosstrek Premium,Used,"$25,500",Dealer,UT,Black,All-wheel Drive,28,33,Gasoline,Automatic CVT
+2018,Ford,Explorer XLT,Used,"$30,489",Dealer,UT,Ebony Black,Front-wheel Drive,17,24,Gasoline,6-Speed Automatic
+2018,Ford,Explorer XLT,Used,"$32,489",Dealer,UT,Ebony Black,Four-wheel Drive,16,22,Gasoline,6-Speed Automatic
+2021,Acura,RDX A-Spec,Used,"$37,000",Dealer,UT,Red,All-wheel Drive,21,26,Gasoline,10-Speed Automatic
+2021,Acura,RDX A-Spec,Used,"$38,000",Dealer,UT,Red,All-wheel Drive,21,26,Gasoline,10-Speed Automatic
+2018,Ford,Explorer XLT,Used,"$31,672",Dealer,UT,Ebony Black,Four-wheel Drive,16,22,Gasoline,6-Speed Automatic
+2021,Subaru,Forester Sport,Used,"$29,500",Dealer,ID,Gray,All-wheel Drive,26,33,Gasoline,Automatic CVT
+2018,Subaru,Crosstrek 2.0i Premium,Used,"$31,995",Dealer,WA,Black,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2018,Subaru,Crosstrek 2.0i Premium,Used,"$24,561",Dealer,WA,Black,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2018,Subaru,Crosstrek 2.0i Premium,Used,"$24,921",Dealer,ID,Black,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2016,BMW,435 Gran Coupe i xDrive,Used,"$30,995",Dealer,WA,Coral Red / Black,All-wheel Drive,20,30,Gasoline,8-Speed Automatic
+2016,BMW,435 Gran Coupe i xDrive,Used,"$30,995",Dealer,WA,Black,All-wheel Drive,20,30,Gasoline,8-Speed Automatic
+2019,Honda,Odyssey EX-L,Used,"$38,347",Dealer,TX,Gray,Front-wheel Drive,19,28,Gasoline,9-Speed Automatic
+2016,Honda,Odyssey EX-L,Used,"$28,999",Private,TX,Beige,Front-wheel Drive,19,28,Gasoline Fuel,6-Speed A/T
+2020,Mercedes-Benz,GLC 300 Base,Used,"$43,451",Dealer,TX,Black,Rear-wheel Drive,22,29,Gasoline,9-Speed Automatic
+2019,Audi,Q5 2.0T Premium,Used,"$37,300",Dealer,TX,Black,All-wheel Drive,22,27,Gasoline,7-Speed Automatic with Auto-Shift
+2014,BMW,428 i,Used,"$27,741",Dealer,TX,Black,Rear-wheel Drive,23,34,Gasoline,8-Speed Automatic
+2019,Honda,Odyssey EX-L,Used,"$38,900",Dealer,KS,Mocha,Front-wheel Drive,19,28,Gasoline,9-Speed Automatic
+2019,Lincoln,MKZ Standard,Used,"$30,691",Dealer,TX,Ebony,Front-wheel Drive,20,31,Gasoline,6-Speed Automatic
+2020,Subaru,Ascent Touring 7-Passenger,Used,"$31,754",Dealer,MN,Java Brown,All-wheel Drive,20,26,Gasoline,Automatic CVT
+2017,Land,Rover Range Rover Evoque SE Premium,Used,"$34,555",Private,WI,Beige,Four-wheel Drive,21,29,Gasoline Fuel,Transmission w/Dual Shift Mode
+2022,Honda,Pilot EX-L,Used,"$41,535",Dealer,LA,Gray,Front-wheel Drive,20,27,Gasoline,9-Speed Automatic
+2013,INFINITI,G37 x,Used,"$17,300",Private,IL,Black,All-wheel Drive,18,25,Gasoline Fuel,7-Speed A/T
+2017,Honda,Civic EX,Used,"$22,004",Dealer,IL,Black / Gray,Front-wheel Drive,31,40,Gasoline,Automatic CVT
+2015,Jeep,Grand Cherokee SRT,Used,"$52,884",Dealer,IN,Sepia / Black,Four-wheel Drive,13,19,Gasoline,8-Speed Automatic
+2011,Ford,Explorer Limited,Used,"$12,290",Dealer,IN,Beige,Front-wheel Drive,17,25,Gasoline,6-Speed Automatic
+2017,BMW,M240 i,Used,"$33,900",Dealer,GA,Oyster/Black,Rear-wheel Drive,21,32,Gasoline,8-SPEED A/T
+2020,Volvo,XC60 T5 Inscription,Used,"$41,389",Dealer,TN,Charcoal,Front-wheel Drive,22,29,Gasoline,8-Speed Automatic
+2018,Honda,Civic EX,Used,"$23,739",Dealer,OH,Black,Front-wheel Drive,31,40,Gasoline,Automatic CVT
+2020,BMW,X1 xDrive28i,Used,"$32,893",Dealer,OH,Black,All-wheel Drive,23,31,Gasoline,8-Speed Automatic
+2020,BMW,X1 xDrive28i,Used,"$30,693",Dealer,OH,Black,All-wheel Drive,23,31,Gasoline,8-Speed Automatic
+2019,Acura,ILX Premium & A-SPEC Packages,Used,"$23,995",Dealer,SC,Red,Front-wheel Drive,24,34,Gasoline,8-Speed Automatic with Auto-Shift
+2021,Chrysler,300 S,Used,"$30,000",Dealer,FL,Black,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2017,Land,Rover Range Rover Sport 3.0L Supercharged HSE Dynamic,Used,"$53,000",Private,VA,Red,Four-wheel Drive,17,23,Gasoline Fuel,8-Speed A/T
+2019,BMW,Z4 sDrive30i,Used,"$46,500",Dealer,VA,Ivory White,Rear-wheel Drive,25,32,Gasoline,8-Speed Automatic
+2019,Honda,Civic Sport,Used,Not Priced,Dealer,VA,Black,Front-wheel Drive,30,36,Gasoline,Automatic CVT
+2016,Land,Rover Range Rover,Used,"$51,000",Dealer,VA,Ebony / Ebony,Four-wheel Drive,14,19,Gasoline,8-Speed Automatic
+2011,Ford,F-150 Lariat,Used,"$18,973",Dealer,VA,Black,Four-wheel Drive,14,19,E85 Flex Fuel,6-Speed Automatic
+2018,Mazda,CX-5 Grand Touring,Used,"$25,549",Dealer,VA,Black,Front-wheel Drive,25,31,Gasoline,6-Speed Automatic
+2018,Kia,Sportage LX,Used,"$18,500",Dealer,VA,Black,Front-wheel Drive,23,30,Gasoline,6-Speed Automatic
+2017,Volkswagen,Tiguan Sport,Used,"$20,000",Dealer,PA,Charcoal Black,All-wheel Drive,20,24,Gasoline,Automatic
+2017,Chrysler,300 S,Used,"$33,558",Dealer,PA,Linen,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2020,Tesla,Model X Performance,Used,"$122,222",Private,FL,White,All-wheel Drive,80,77,Electric Fuel System,1-Speed A/T
+2019,Subaru,Impreza 2.0i Premium,Used,"$4,750",Dealer,FL,Black,All-wheel Drive,28,36,Gasoline,Automatic CVT
+2019,Jeep,Cherokee Latitude Plus,Used,"$27,500",Dealer,PA,Black,Four-wheel Drive,21,29,Gasoline,9-Speed Automatic
+2019,Jeep,Cherokee Latitude Plus,Used,"$21,795",Dealer,PA,Black,Front-wheel Drive,22,31,Gasoline,9-SPEED A/T
+2018,BMW,320 i xDrive,Used,"$25,950",Dealer,PA,Charcoal,All-wheel Drive,23,34,Gasoline,8-Speed Automatic
+2016,Porsche,Cayenne Base,Used,"$44,998",Dealer,PA,Black,All-wheel Drive,19,24,Gasoline,8-Speed Automatic
+2016,Nissan,Rogue SV,Used,"$19,949",Dealer,PA,Charcoal,All-wheel Drive,25,32,Gasoline,Automatic CVT
+2014,Mercedes-Benz,E-Class E 350 4MATIC,Used,"$14,500",Dealer,NJ,Black,All-wheel Drive,21,30,Gasoline,driver adaptive 7 speed automatic
+2012,BMW,X5 xDrive35i Premium,Used,"$12,499",Dealer,PA,Brown,All-wheel Drive,16,23,Gasoline,8-Speed Automatic
+2020,Hyundai,Santa Fe SEL 2.4,Used,"$30,187",Dealer,NJ,Black,All-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2020,Hyundai,Santa Fe SEL 2.4,Used,"$28,959",Dealer,NJ,Black / Beige,All-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2019,Mercedes-Benz,S-Class S 560 4MATIC,Used,"$71,458",Dealer,NJ,Brown,All-wheel Drive,17,27,Gasoline,9-Speed Automatic
+2020,Hyundai,Santa Fe SEL 2.4,Used,"$30,716",Dealer,NJ,Espresso,All-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2020,Hyundai,Elantra SE,Used,"$17,995",Dealer,NJ,Beige,Front-wheel Drive,30,40,Gasoline,Automatic CVT
+2020,BMW,X3 M40i,Used,"$49,995",Dealer,NJ,Cognac,All-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2019,Volkswagen,Golf R 2.0T w/DCC & Navigation,Used,"$40,500",Dealer,NY,Titan Black,All-wheel Drive,23,30,Gasoline,7-Speed Automatic with Auto-Shift
+2018,Land,Rover Range Rover HSE,Used,"$52,874",Dealer,NY,Ebony,Four-wheel Drive,17,23,Gasoline,Automatic
+2019,Mercedes-Benz,S-Class S 560 4MATIC,Used,"$62,995",Dealer,NY,White,All-wheel Drive,17,27,Gasoline,9-Speed Automatic
+2018,BMW,430 Gran Coupe i xDrive,Used,"$26,975",Dealer,MA,Coral Red / Black,All-wheel Drive,23,33,Gasoline,8-Speed Automatic
+2018,BMW,430 Gran Coupe i xDrive,Used,"$25,975",Dealer,MA,Golden Brown,All-wheel Drive,23,33,Gasoline,8-Speed Automatic
+2019,Mercedes-Benz,GLS 450 4MATIC,Used,"$56,287",Dealer,MA,Ginger,All-wheel Drive,16,22,Gasoline,9-Speed Automatic
+2018,BMW,430 Gran Coupe i xDrive,Used,"$29,995",Dealer,MA,Golden Brown,All-wheel Drive,23,33,Gasoline,8-Speed Automatic
+2016,GMC,Yukon Denali,Used,"$38,999",Dealer,CA,Black,Four-wheel Drive,15,21,Gasoline,8-Speed Automatic
+2020,Mercedes-Benz,GLB 250 Base,Used,"$42,492",Dealer,CA,Black,Front-wheel Drive,23,30,Gasoline,8-Speed Automatic with Auto-Shift
+2021,Toyota,Camry SE,Used,"$31,998",Dealer,CA,Black,Front-wheel Drive,28,39,Gasoline,8-Speed Automatic
+2019,Subaru,Crosstrek 2.0i Premium,Used,"$28,998",Dealer,AZ,Gray,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2020,Dodge,Charger Scat Pack,Used,"$40,600",Dealer,AZ,Caramel / Black,Rear-wheel Drive,15,24,Gasoline,8-Speed Automatic
+2021,Subaru,Crosstrek Premium,Used,"$26,000",Dealer,UT,Black,All-wheel Drive,28,33,Gasoline,Automatic CVT
+2018,Subaru,Crosstrek 2.0i Premium,Used,"$29,998",Dealer,OR,Black,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2018,Subaru,Crosstrek 2.0i Premium,Used,"$27,998",Dealer,WA,Black,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2019,Audi,Q5 2.0T Premium,Used,"$35,700",Dealer,TX,Black,All-wheel Drive,22,27,Gasoline,7-Speed Automatic with Auto-Shift
+2019,Audi,Q5 2.0T Premium,Used,"$38,884",Dealer,TX,Black,All-wheel Drive,22,27,Gasoline,7-Speed Automatic with Auto-Shift
+2012,Audi,A5 2.0T Premium,Used,"$14,499",Dealer,TX,Black,All-wheel Drive,21,29,Gasoline,8-Speed Automatic
+2021,Dodge,Challenger R/T,Used,"$33,995",Dealer,TX,Gray,Rear-wheel Drive,15,23,Gasoline,8-Speed Automatic
+2016,Mazda,CX-5 Grand Touring,Used,"$18,950",Dealer,NE,Black,All-wheel Drive,24,30,Gasoline,6-Speed Automatic
+2015,Honda,Accord EX-L,Used,"$21,998",Dealer,TX,Black,Front-wheel Drive,21,34,Gasoline,6-Speed Automatic
+2017,Chevrolet,Camaro 2SS,Used,"$29,995",Dealer,TX,Adrenaline Red,Rear-wheel Drive,16,25,Gasoline,8-Speed Automatic
+2017,Nissan,Rogue S,Used,"$16,985",Dealer,MN,Gray,All-wheel Drive,25,32,Gasoline,Automatic CVT
+2019,Toyota,Highlander SE,Used,"$39,368",Dealer,AR,Almond,Front-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2019,Chevrolet,Cruze LS,Used,"$21,998",Dealer,MO,Jet Black,Front-wheel Drive,28,38,Gasoline,6-Speed Automatic
+2018,Chevrolet,Traverse Premier,Used,"$36,525",Dealer,IL,Jet Black,Front-wheel Drive,18,27,Gasoline,9-Speed Automatic
+2020,Nissan,Murano SV,Used,"$27,289",Dealer,LA,Graphite,Front-wheel Drive,20,28,Gasoline,Automatic CVT
+2019,BMW,540 i xDrive,Used,"$47,805",Dealer,IL,Black,All-wheel Drive,21,29,Gasoline,8-Speed Automatic
+2021,Volkswagen,Atlas 3.6L SEL Premium,Used,"$49,500",Dealer,IL,Titan Black / Quarzit,All-wheel Drive,16,22,Gasoline,8-Speed Automatic
+2015,Chevrolet,Tahoe LTZ,Used,"$28,850",Dealer,WI,Cocoa / Dune,Four-wheel Drive,16,22,Gasoline,6-Speed Automatic
+2020,Honda,Civic Sport,Used,"$19,800",Dealer,WI,Black,Front-wheel Drive,29,37,Gasoline,Automatic
+2021,Honda,Pilot Special Edition,Used,"$43,171",Dealer,IN,Gray,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2017,Hyundai,Tucson SE,Used,"$18,550",Dealer,IN,Gray,All-wheel Drive,21,26,Gasoline,6-Speed Automatic
+2019,Buick,Enclave Essence,Used,"$34,856",Dealer,OH,Shale,Front-wheel Drive,18,26,Gasoline,9-Speed Automatic
+2019,Buick,Enclave Essence,Used,"$34,888",Dealer,OH,Dark Galvanized,Front-wheel Drive,18,26,Gasoline,9-Speed Automatic
+2015,Jeep,Wrangler Unlimited Sport,Used,"$26,455",Dealer,GA,Black,Four-wheel Drive,16,21,Gasoline,5-Speed Automatic
+2020,Buick,Enclave Essence,Used,"$36,500",Dealer,MI,Dark Galvanized,Front-wheel Drive,18,26,Gasoline,9-Speed Automatic
+2018,BMW,X5 M Base,Used,"$70,996",Dealer,GA,Aragon Brown,All-wheel Drive,14,19,Gasoline,8-Speed Automatic
+2021,Genesis,GV80 2.5T,Used,"$55,841",Dealer,GA,Black,Rear-wheel Drive,21,25,Gasoline,8-Speed Automatic
+2021,Chevrolet,Tahoe Z71,Used,"$70,490",Dealer,GA,Black,Four-wheel Drive,16,20,Gasoline,10-Speed Automatic
+2021,Genesis,GV80 2.5T,Used,"$68,988",Dealer,GA,Black,All-wheel Drive,21,25,Gasoline,8-Speed Automatic
+2017,Acura,MDX 3.5L w/Advance Package,Used,"$24,950",Dealer,MI,Graystone,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2007,Toyota,RAV4 Sport,Used,"$8,500",Dealer,OH,Black,Four-wheel Drive,21,28,Gasoline,5-Speed Automatic
+2015,Chevrolet,Suburban 1500 LT,Used,"$33,895",Dealer,OH,Jet Black,Four-wheel Drive,15,22,Gasoline,6-Speed Automatic
+2016,Ford,F-150 XLT,Used,"$34,997",Dealer,PA,Black,Four-wheel Drive,17,23,Gasoline,6-Speed Automatic
+2020,Acura,MDX 3.5L w/Technology Package,Used,"$45,996",Dealer,NC,Ebony,Front-wheel Drive,20,27,Gasoline,9-Speed Automatic
+2019,Toyota,Tundra SR5,Used,"$39,989",Dealer,PA,Black,Four-wheel Drive,13,17,Gasoline,6-Speed Automatic
+2021,Cadillac,Escalade Sport,Used,"$107,998",Dealer,FL,Black,Four-wheel Drive,14,19,Gasoline,10-Speed Automatic
+2020,Chrysler,300 S,Used,"$34,000",Dealer,GA,Black,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2021,Chrysler,300 S,Used,"$28,500",Dealer,FL,Black,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2013,Mercedes-Benz,SL-Class SL 550,Used,"$39,785",Dealer,FL,Black,Rear-wheel Drive,17,25,Gasoline,Automatic
+2020,INFINITI,QX60 Pure,Used,"$31,599",Dealer,FL,Graphite,Front-wheel Drive,20,27,Gasoline,Automatic CVT
+2020,INFINITI,QX60 Pure,Used,"$29,449",Dealer,FL,Graphite,Front-wheel Drive,20,27,Gasoline,Automatic CVT
+2012,Kia,Sorento SX,Used,"$4,995",Dealer,NY,Black,All-wheel Drive,18,24,Gasoline,Automatic
+2003,Ford,Taurus SES,Used,"$4,388",Dealer,VA,Tan,Front-wheel Drive,20,27,Gasoline,4-Speed Automatic
+2020,Lexus,RX 350 Base,Used,"$47,988",Dealer,VA,Black,All-wheel Drive,19,26,Gasoline,8-Speed Automatic
+2020,Kia,Sorento LX,Used,"$28,933",Dealer,FL,Black,Front-wheel Drive,22,29,Gasoline,6-Speed Automatic
+2010,Lexus,LS 460 Base,Used,"$19,990",Dealer,MD,Beige,Rear-wheel Drive,16,24,Gasoline,8-Speed Automatic
+2019,Chevrolet,Silverado 1500 Custom,Used,"$30,490",Dealer,FL,Gideon,Rear-wheel Drive,16,21,Gasoline,6-Speed Automatic
+2015,BMW,328 i,Used,"$15,899",Dealer,FL,Brown,Rear-wheel Drive,23,35,Gasoline,8-Speed Automatic
+2021,Land,Rover Range Rover Sport HSE Silver Edition,Used,"$86,995",Dealer,PA,Ebony,Four-wheel Drive,19,24,Gasoline,Automatic
+2018,BMW,320 320i xDrive,Used,"$22,950",Dealer,PA,Black,All-wheel Drive,23,34,Gasoline,Automatic
+2002,BMW,540 i,Used,"$22,900",Private,PA,Beige,Rear-wheel Drive,15,23,Gasoline Fuel,6-Speed M/T
+2016,Porsche,Cayenne Base,Used,"$28,900",Dealer,NJ,BROWN,All-wheel Drive,19,24,Gasoline,8 speed tiptronic s automatic
+2019,Mazda,Mazda3 AWD w/Preferred Package,Used,"$16,499",Dealer,PA,Black,All-wheel Drive,25,33,Gasoline,6-Speed Automatic
+2018,BMW,320 i xDrive,Used,"$24,985",Dealer,NJ,Venetian Beige,All-wheel Drive,23,34,Gasoline,8-Speed Automatic
+2020,Hyundai,Santa Fe SEL 2.4,Used,"$28,459",Dealer,NJ,Espresso,All-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2020,Hyundai,Santa Fe SEL 2.4,Used,"$31,991",Dealer,NY,Black,All-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2013,Toyota,Highlander Base Plus,Used,"$20,700",Dealer,NY,Black,All-wheel Drive,17,22,Gasoline,5-Speed Automatic
+2019,Jeep,Grand Cherokee Altitude,Used,"$33,750",Dealer,NY,Black,Four-wheel Drive,18,25,Gasoline,8-Speed Automatic
+2020,Acura,MDX 3.5L,Used,"$39,412",Dealer,NY,Ebony,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2017,BMW,M3 Base,Used,"$55,863",Dealer,NY,Sakhir Orange,Rear-wheel Drive,17,26,Gasoline,7-Speed Automatic with Auto-Shift
+2020,Toyota,Tacoma SR,Used,"$33,888",Dealer,NY,Cement,Four-wheel Drive,18,22,Gasoline,6-Speed Automatic
+2020,Acura,MDX 3.5L w/Technology Package,Used,"$39,900",Dealer,MA,Espresso,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2021,Tesla,Model Y Long Range,Used,"$71,277",Dealer,NH,White / Black,All-wheel Drive,131,117,Electric,1-Speed Automatic
+2013,Porsche,Boxster S,Used,"$57,900",Dealer,MA,Black,Rear-wheel Drive,20,28,Gasoline,7-Speed Automatic with Auto-Shift
+2010,Mazda,Mazda6 s Grand Touring,Used,"$9,899",Dealer,MA,Black,Front-wheel Drive,17,25,Gasoline,6-Speed Automatic
+2018,Toyota,4Runner Limited,Used,"$39,919",Dealer,MA,Black,Four-wheel Drive,17,20,Gasoline,5-Speed Automatic
+2019,Subaru,Forester,Used,"$26,200",Dealer,NH,Black,All-wheel Drive,26,33,Gasoline,Automatic CVT
+2020,Tesla,Model Y Long Range,Used,"$73,992",Dealer,CA,White / Black,All-wheel Drive,127,114,Electric,1-Speed Automatic
+2019,BMW,X3 sDrive30i,Used,"$35,400",Dealer,CA,Canberra Beige,Rear-wheel Drive,23,30,Gasoline,8-Speed Automatic
+2019,BMW,X3 sDrive30i,Used,"$31,995",Dealer,CA,Black,Rear-wheel Drive,23,30,Gasoline,8-Speed Automatic
+2012,Toyota,4Runner Limited,Used,"$24,999",Dealer,CA,Black / Graphite,Four-wheel Drive,17,22,Gasoline,5-Speed Automatic
+2019,BMW,X5 xDrive40i,Used,"$54,998",Dealer,CA,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2020,Toyota,Corolla SE,Used,"$18,500",Dealer,AZ,Black,Front-wheel Drive,31,40,Gasoline,Automatic CVT
+2022,Honda,Pilot Elite,Used,"$41,300",Dealer,UT,Black,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2022,Honda,Pilot Elite,Used,"$40,000",Dealer,UT,Gray,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2014,Subaru,Forester 2.5i,Used,"$8,800",Dealer,UT,Dark Gray,All-wheel Drive,24,32,Gasoline,Automatic CVT
+2021,Subaru,Forester Sport,Used,"$29,700",Dealer,ID,Gray,All-wheel Drive,26,33,Gasoline,Automatic CVT
+2020,Ford,Edge Titanium,Used,"$34,997",Dealer,ID,Ebony,All-wheel Drive,21,28,Gasoline,8-Speed Automatic
+2020,Subaru,Ascent Touring 7-Passenger,Used,"$42,505",Dealer,CO,Java Brown,All-wheel Drive,20,26,Gasoline,Automatic CVT
+2020,Lexus,RX 450hL Base,Used,"$56,500",Dealer,WA,Parchment,All-wheel Drive,29,28,Hybrid,Automatic CVT
+2021,Subaru,Forester Premium,Used,"$28,400",Dealer,ID,Black,All-wheel Drive,26,33,Gasoline,Automatic CVT
+2019,Volvo,XC60 T5 Inscription,Used,"$40,968",Dealer,TX,Blond,Front-wheel Drive,22,29,Gasoline,8-Speed Automatic
+2019,Volvo,XC40 T5 R-Design,Used,"$42,962",Dealer,TX,Charcoal,All-wheel Drive,23,31,Gasoline,8-Speed Automatic
+2020,BMW,X5 sDrive40i,Used,"$55,901",Dealer,TX,Canberra Beige,Rear-wheel Drive,21,26,Gasoline,8-Speed Automatic
+2019,Mazda,CX-5 Grand Touring,Used,"$29,895",Dealer,TX,Black,Front-wheel Drive,25,31,Gasoline,6-Speed Automatic
+2019,Toyota,4Runner Limited,Used,"$46,991",Dealer,TX,Black Graphite,Four-wheel Drive,17,20,Gasoline,5-Speed Automatic
+2019,BMW,M850 i xDrive,Used,"$77,480",Dealer,TX,Fiona Red,All-wheel Drive,18,25,Gasoline,8-Speed Automatic
+2021,Tesla,Model 3 Performance,Used,"$65,786",Dealer,TX,White / Black,All-wheel Drive,118,107,Gasoline,1-Speed Automatic
+2018,Hyundai,Santa Fe Limited Ultimate,Used,"$24,750",Dealer,TX,Gray,All-wheel Drive,17,22,Gasoline,6-Speed Automatic
+2020,Dodge,Challenger SXT,Used,"$32,290",Dealer,TX,Black,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2019,Ford,F-150 XLT,Used,"$42,995",Dealer,SD,Black,Four-wheel Drive,18,23,Gasoline,Automatic with Overdrive
+2019,BMW,330 i xDrive,Used,"$39,521",Dealer,MO,Black,All-wheel Drive,25,34,Gasoline,8-Speed Automatic
+2019,Honda,CR-V EX,Used,"$28,693",Dealer,TX,Gray,Front-wheel Drive,28,34,Gasoline,Automatic CVT
+2020,Acura,MDX 3.5L w/Technology Package,Used,"$41,499",Dealer,TX,Ebony,Front-wheel Drive,20,27,Gasoline,9-Speed Automatic
+2017,Subaru,Impreza 2.0i,Used,"$16,823",Dealer,MN,Ivory,All-wheel Drive,28,38,Gasoline,CVT 7-Speed
+2004,Toyota,Highlander Base,Used,"$5,995",Dealer,MN,Tan,Front-wheel Drive,23,23,Gasoline,Automatic 5-Speed
+2003,Lexus,RX 300,Used,"$9,995",Dealer,MO,Black,All-wheel Drive,18,22,Gasoline,4-Speed Automatic
+2019,Toyota,4Runner SR5,Used,"$37,998",Dealer,LA,Gray,Rear-wheel Drive,17,21,Gasoline,5-Speed Automatic
+2019,Chevrolet,Impala Premier 2LZ,Used,"$26,256",Dealer,WI,Jet Black,Front-wheel Drive,19,28,Gasoline,6-Speed Automatic
+2019,BMW,X7 xDrive50i,Used,"$81,749",Dealer,IL,Tartufo,All-wheel Drive,15,21,Gasoline,8-Speed Automatic
+2008,Mercedes-Benz,S-Class S 550 4MATIC,Used,"$15,800",Dealer,IL,Brown,All-wheel Drive,14,20,Gasoline,7-Speed Automatic
+2018,Nissan,Rogue SL,Used,"$21,690",Dealer,IL,Charcoal,All-wheel Drive,25,32,Gasoline,Automatic CVT
+2021,Volkswagen,Atlas 3.6L SEL Premium,Used,"$47,990",Dealer,IL,Mauro Brown,All-wheel Drive,16,22,Gasoline,8-Speed Automatic
+2019,Toyota,4Runner Limited,Used,"$46,079",Dealer,WI,Redwood,Four-wheel Drive,17,20,Gasoline,5-Speed Automatic
+2018,Toyota,RAV4 XLE,Used,"$28,998",Dealer,IL,Black,Front-wheel Drive,23,30,Gasoline,6-Speed Automatic
+2019,Honda,Accord EX-L 1.5T,Used,"$20,900",Dealer,WI,Black,Front-wheel Drive,30,38,Gasoline,Automatic
+2020,Mercedes-Benz,GLE 350 Base 4MATIC,Used,"$53,967",Dealer,IL,Black,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2019,BMW,330 i,Used,"$39,597",Dealer,AL,Cognac,Rear-wheel Drive,26,36,Gasoline,8-Speed Automatic
+2019,BMW,X3 M40i,Used,"$47,997",Dealer,AL,Black,All-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2021,Audi,Q3 45 S line Premium,Used,"$44,561",Dealer,AL,Okapi Brown,All-wheel Drive,20,28,Gasoline,7-Speed Automatic
+2021,Audi,Q3 45 S line Premium,Used,"$44,591",Dealer,AL,Okapi Brown,All-wheel Drive,20,28,Gasoline,7-Speed Automatic
+2021,Genesis,GV80 2.5T,Used,"$52,541",Dealer,GA,Black,Rear-wheel Drive,21,25,Gasoline,8-Speed Automatic
+2018,Audi,S5 3.0T Prestige,Used,"$44,850",Dealer,MI,Magma Red,All-wheel Drive,21,30,Gasoline,8-Speed Automatic
+2019,Honda,Pilot EX-L,Used,"$36,498",Dealer,OH,Beige,Front-wheel Drive,19,27,Gasoline,6-Speed Automatic
+2019,Mercedes-Benz,GLC 300 Base 4MATIC,Used,"$37,500",Private,MI,Black,All-wheel Drive,22,27,Gasoline Fuel,9-Speed A/T
+2020,Chevrolet,Spark LS,Used,"$13,989",Dealer,OH,Gray,Front-wheel Drive,30,38,Gasoline,Automatic CVT
+2019,Hyundai,Elantra SE,Used,"$21,998",Dealer,OH,Black,Front-wheel Drive,29,38,Gasoline,6-Speed Automatic
+2019,Hyundai,Elantra SE,Used,"$18,997",Dealer,OH,Gray,Front-wheel Drive,29,38,Gasoline,6-Speed Automatic
+2015,Chevrolet,Suburban 1500 LT,Used,"$32,495",Dealer,OH,Gray,Four-wheel Drive,15,22,Gasoline,6-Speed Automatic
+2012,Mercedes-Benz,S-Class S 550 4MATIC,Used,"$25,695",Dealer,OH,Ash / Grey,All-wheel Drive,15,24,Gasoline,7-Speed Automatic
+2019,Jeep,Grand Cherokee Limited,Used,"$35,500",Dealer,NC,Black,Four-wheel Drive,18,25,Gasoline,8-Speed Automatic
+2019,Mazda,CX-5 Grand Touring,Used,"$27,491",Dealer,FL,Parchment,Front-wheel Drive,25,31,Gasoline,6-Speed Automatic
+2010,BMW,128 128i,Used,"$8,999",Dealer,VA,Black,Rear-wheel Drive,18,28,Gasoline,Automatic
+2016,Land,Rover Range Rover,Used,"$49,989",Dealer,VA,Ebony / Ebony,Four-wheel Drive,14,19,Gasoline,8-Speed Automatic
+2004,Lexus,LS 430 Base (A6),Used,"$14,290",Dealer,VA,Saddle,Rear-wheel Drive,18,25,Gasoline,6-Speed Automatic
+2020,Lexus,RX 350 Base,Used,"$47,455",Dealer,VA,Black,All-wheel Drive,19,26,Gasoline,8-Speed Automatic
+2020,Mazda,Mazda6 Sport,Used,"$30,916",Dealer,MD,Parchment,Front-wheel Drive,23,31,Gasoline,6-Speed Automatic
+2016,Hyundai,Sonata Hybrid SE,Used,"$18,375",Dealer,MD,Gray,Front-wheel Drive,40,44,Hybrid,6-Speed Automatic
+2017,Alfa,Romeo Giulia Ti,Used,"$29,900",Private,MD,Black,All-wheel Drive,23,31,Gasoline Fuel,Transmission w/Dual Shift Mode
+2017,Toyota,Corolla LE,Used,"$13,899",Dealer,FL,Gray,Front-wheel Drive,28,36,Gasoline,CVT
+2016,Acura,MDX 3.5L w/Technology Package,Used,"$19,900",Dealer,PA,Ebony,Front-wheel Drive,19,27,Gasoline,9-Speed Automatic
+2008,Lexus,RX 350 Base (A5),Used,"$11,995",Dealer,NJ,Beige,All-wheel Drive,17,22,Gasoline,5-Speed Automatic
+2019,BMW,X5 xDrive40i,Used,"$56,998",Dealer,NJ,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2020,Acura,ILX Premium & A-SPEC Packages,Used,"$30,885",Dealer,NY,Red,Front-wheel Drive,24,34,Gasoline,8-Speed Automatic with Auto-Shift
+2006,Toyota,Highlander Limited w/3rd Row,Used,"$11,995",Dealer,NJ,Ash,Four-wheel Drive,18,24,Gasoline,Automatic
+2019,BMW,M550 i Xdrive,Used,"$44,718",Dealer,NY,Black,All-wheel Drive,18,25,Gasoline,sport automatic
+2019,Subaru,Forester,Used,"$23,990",Dealer,MA,Gray,All-wheel Drive,26,33,Gasoline,Automatic CVT
+2021,Cadillac,XT6 Premium Luxury AWD,Used,"$59,998",Dealer,CA,Dark Auburn,All-wheel Drive,18,25,Gasoline,9-Speed Automatic
+2020,Chevrolet,Blazer Premier,Used,"$48,998",Dealer,CA,Jet Black,Front-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2012,Porsche,911 Targa 4,Used,"$72,998",Dealer,CA,Black,All-wheel Drive,18,25,Gasoline,7-Speed Automatic with Auto-Shift
+2018,Audi,A3 2.0T Prestige,Used,"$31,492",Dealer,AZ,Black,All-wheel Drive,24,31,Gasoline,6-Speed Automatic with Auto-Shift
+2017,Jeep,Grand Cherokee Limited,Used,"$27,575",Dealer,AZ,Black,Rear-wheel Drive,19,26,Gasoline,8-Speed Automatic
+2018,Subaru,Outback 2.5i Limited,Used,"$29,499",Dealer,AZ,Black,All-wheel Drive,25,32,Gasoline,Automatic CVT
+2018,Mazda,CX-5 Grand Touring,Used,"$27,499",Dealer,CO,Parchment,Front-wheel Drive,25,31,Gasoline,6-Speed Automatic
+2015,Porsche,Cayenne S,Used,"$34,999",Dealer,WA,Black,All-wheel Drive,17,24,Gasoline,8-Speed Automatic
+2020,BMW,X5 xDrive40i,Used,"$62,787",Dealer,WA,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2017,Buick,LaCrosse Premium,Used,"$28,994",Dealer,TX,Light Neutral,Front-wheel Drive,21,31,Gasoline,8-Speed Automatic
+2017,Cadillac,XT5 Luxury,Used,"$33,029",Dealer,TX,Black,Front-wheel Drive,19,27,Gasoline,8-Speed Automatic
+2021,Tesla,Model Y Performance,Used,"$74,799",Dealer,TX,White / Black,All-wheel Drive,115,106,Electric,1-Speed Automatic
+2019,Volvo,XC60 T5 Momentum,Used,"$41,967",Dealer,TX,Maroon Brown,All-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2020,Dodge,Challenger SXT,Used,"$28,619",Dealer,TX,Black,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2019,Audi,Q5 2.0T Premium,Used,"$35,739",Dealer,TX,Atlas Beige / Gray,All-wheel Drive,22,27,Gasoline,7-Speed Automatic with Auto-Shift
+2021,Mazda,Mazda3 FWD w/Preferred Package,Used,"$27,981",Dealer,TX,Black / Navy Blue,Front-wheel Drive,26,35,Gasoline,6-Speed Automatic
+2021,Kia,Forte FE,Used,"$16,999",Dealer,TX,Gray,Front-wheel Drive,31,41,Gasoline,Automatic CVT
+2019,Audi,Q5 2.0T Premium,Used,"$35,480",Dealer,TX,Black,All-wheel Drive,22,27,Gasoline,7-Speed Automatic with Auto-Shift
+2018,Lincoln,MKZ Select,Used,"$22,995",Dealer,TX,Cream,Front-wheel Drive,21,31,Gasoline,6-Speed Automatic
+2019,BMW,330 i xDrive,Used,"$40,000",Dealer,MO,Black,All-wheel Drive,25,34,Gasoline,8-Speed Automatic
+2021,Tesla,Model Y Long Range,Used,"$74,900",Dealer,MO,Black,All-wheel Drive,131,117,Electric,1-Speed Automatic
+2021,Ford,F-150 Lariat,Used,"$66,000",Dealer,IA,Black,Four-wheel Drive,19,24,Gasoline,10-Speed Automatic
+2019,Volkswagen,Arteon 2.0T SEL Premium R-Line,Used,"$32,500",Dealer,IA,Titan Black,All-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2017,Honda,Accord LX,Used,"$17,352",Dealer,MN,Black,Front-wheel Drive,27,36,Gasoline,Automatic CVT
+2021,Dodge,Charger SXT,Used,"$32,299",Dealer,LA,Black,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2019,Honda,Pilot EX-L,Used,"$34,995",Dealer,LA,Beige Leather,Front-wheel Drive,19,27,Gasoline,6-SPEED A/T
+2019,Acura,RDX Base,Used,"$36,605",Dealer,IL,Parchment,All-wheel Drive,21,27,Gasoline,10-Speed Automatic
+2019,Acura,RDX Base,Used,"$37,331",Dealer,IL,Parchment,All-wheel Drive,21,27,Gasoline,10-Speed Automatic
+2021,Audi,Q5 45 Premium,Used,"$52,308",Dealer,IL,Rock Gray,All-wheel Drive,23,28,Gasoline,7-Speed Automatic with Auto-Shift
+2018,Nissan,Rogue SL,Used,"$22,177",Dealer,IL,Charcoal,All-wheel Drive,25,32,Gasoline,Automatic
+2020,Acura,MDX 3.5L Technology & A-Spec Pkgs,Used,"$46,988",Dealer,IL,Ebony,All-wheel Drive,19,25,Gasoline,9-Speed Automatic
+2021,Volkswagen,Atlas 3.6L SEL Premium,Used,"$47,044",Dealer,IL,Titan Black / Quarzit,All-wheel Drive,16,22,Gasoline,8-Speed Automatic
+2016,Volvo,XC90 T6 Momentum,Used,"$35,998",Dealer,IL,Blond,All-wheel Drive,20,25,Gasoline,8-Speed Automatic
+2019,INFINITI,QX80 Luxe,Used,"$52,506",Dealer,TN,Saddle Brown,Rear-wheel Drive,14,20,Gasoline,7-Speed Automatic
+2021,Honda,Pilot Special Edition,Used,"$43,704",Dealer,IN,Black,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2015,Acura,MDX 3.5L,Used,"$23,999",Dealer,GA,Beige,All-wheel Drive,18,27,Gasoline,6-Speed Automatic
+2019,Audi,Q8 3.0T Premium,Used,"$62,995",Dealer,GA,Black,All-wheel Drive,17,22,Hybrid,8-Speed Automatic
+2017,Nissan,Maxima 3.5 S,Used,"$19,989",Dealer,OH,Black,Front-wheel Drive,21,30,Gasoline,Automatic CVT
+2020,Kia,Telluride SX,Used,"$46,995",Dealer,FL,Black,Front-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2020,Chrysler,300 S,Used,"$31,500",Dealer,GA,Black,All-wheel Drive,18,27,Gasoline,8-Speed Automatic
+2020,Hyundai,Santa Fe Limited 2.0T,Used,"$34,744",Dealer,SC,Black / Beige,Front-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2020,Mercedes-Benz,GLB 250 Base,Used,"$37,220",Dealer,FL,Black,Front-wheel Drive,23,30,Gasoline,8-Speed Automatic with Auto-Shift
+2005,Chrysler,Crossfire SRT-6,Used,"$24,900",Dealer,FL,Charcoal,Rear-wheel Drive,17,24,Gasoline,5-Speed Automatic
+2019,Ford,F-150 XLT,Used,"$41,922",Dealer,SC,Black,Four-wheel Drive,18,23,Gasoline,10-Speed Automatic
+2010,Porsche,Boxster,Used,"$28,950",Dealer,FL,Sand Beige,Rear-wheel Drive,19,27,Gasoline,7-Speed Automatic with Auto-Shift
+2014,FIAT,500L Easy,Used,"$9,900",Dealer,NC,Black,Front-wheel Drive,25,33,Gasoline,6-Speed Manual
+2015,Honda,Civic LX,Used,"$15,995",Dealer,NC,Black / Red,Front-wheel Drive,30,39,Gasoline,Automatic CVT
+2017,Honda,Civic LX,Used,"$19,981",Dealer,VA,Black / Ivory,Front-wheel Drive,31,40,Gasoline,Automatic CVT
+2020,Lexus,GX 460 Base,Used,"$49,000",Dealer,MD,Red,Four-wheel Drive,15,19,Gasoline,6-Speed Automatic
+2019,BMW,X3 M40i,Used,"$47,500",Dealer,MD,Mocha,All-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2019,BMW,X5 xDrive40i,Used,"$58,591",Dealer,VA,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2018,Mercedes-Benz,GLE 350 Base 4MATIC,Used,"$37,963",Dealer,PA,Black,All-wheel Drive,18,22,Gasoline,7-Speed Automatic
+2019,BMW,X5 xDrive40i,Used,"$53,058",Dealer,VA,Ivory White,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2016,Nissan,Rogue SV,Used,"$18,485",Dealer,PA,Almond,All-wheel Drive,25,32,Gasoline,Automatic CVT
+2016,Nissan,Rogue SV,Used,"$15,969",Dealer,DE,Charcoal,All-wheel Drive,25,32,Gasoline,Automatic CVT
+2017,Honda,Pilot Elite,Used,"$34,955",Dealer,PA,Gray,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2016,Nissan,Rogue SV,Used,"$19,900",Dealer,PA,Charcoal,Front-wheel Drive,26,33,Gasoline,Automatic CVT
+2015,BMW,428 i xDrive,Used,"$13,899",Dealer,PA,Black,All-wheel Drive,22,33,Gasoline,8-Speed Automatic
+2008,Lexus,RX 350 Base,Used,"$11,495",Dealer,NJ,Tan,All-wheel Drive,17,22,Gasoline,5-SPEED A/T
+2019,BMW,X7 xDrive50i,Used,"$69,888",Dealer,NJ,Cognac,All-wheel Drive,15,21,Gasoline,8-Speed Automatic
+2019,Audi,A4 2.0T Premium,Used,"$31,995",Dealer,NY,Black,All-wheel Drive,23,34,Gasoline,7-Speed Automatic with Auto-Shift
+2019,Toyota,Camry XSE,Used,"$29,900",Dealer,NY,Red,Front-wheel Drive,28,39,Gasoline,8-Speed Automatic
+2017,BMW,X5 xDrive35i,Used,"$31,950",Dealer,NY,Mocha,All-wheel Drive,18,24,Gasoline,8-Speed Automatic
+2020,Hyundai,Santa Fe SEL 2.4,Used,"$31,997",Dealer,NY,Espresso,All-wheel Drive,21,27,Gasoline,8-Speed Automatic
+2019,Subaru,Forester,Used,"$26,998",Dealer,NH,Gray,All-wheel Drive,26,33,Gasoline,Automatic CVT
+2015,Toyota,4Runner Limited,Used,"$35,977",Dealer,MA,Redwood,Four-wheel Drive,17,21,Gasoline,5-Speed Automatic
+2020,BMW,X5 xDrive40i,Used,"$63,940",Dealer,NH,Ivory White,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2018,Toyota,4Runner Limited,Used,"$40,899",Dealer,MA,Sand Beige,Four-wheel Drive,17,20,Gasoline,5-Speed Automatic
+2019,Mazda,CX-5 Grand Touring,Used,"$30,299",Dealer,CA,Black,Front-wheel Drive,25,31,Gasoline,6-Speed Automatic
+2018,Ford,F-150 XL,Used,"$34,999",Dealer,CA,Dark Earth Gray,Four-wheel Drive,18,23,E85 Flex Fuel,Automatic
+2021,Mazda,CX-9 Carbon Edition,Used,"$41,990",Dealer,AZ,Red,All-wheel Drive,20,26,Gasoline,6-Speed Automatic
+2021,Tesla,Model Y Long Range,Used,"$72,650",Dealer,AZ,Black,All-wheel Drive,131,117,Electric,1-Speed Automatic
+2017,Chevrolet,Equinox Premier,Used,"$22,999",Dealer,AZ,Jet Black,Front-wheel Drive,21,31,Gasoline,6-Speed Automatic with Overdrive
+2017,Lexus,RX 350 350,Used,"$35,615",Dealer,AZ,Parchment,Front-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2020,BMW,X7 xDrive40i,Used,"$71,819",Dealer,UT,Tartufo,All-wheel Drive,20,25,Gasoline,8-Speed Automatic
+2019,Jeep,Grand Cherokee Limited,Used,"$39,439",Dealer,UT,Black,Four-wheel Drive,18,25,Gasoline,8-Speed Automatic
+2016,Subaru,Crosstrek 2.0i Premium,Used,"$19,687",Dealer,WA,Ivory,All-wheel Drive,26,34,Gasoline,Automatic CVT
+2018,Subaru,Crosstrek 2.0i Limited,Used,"$28,952",Dealer,WA,Black,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2020,Audi,Q5 45 Prestige,Used,"$49,998",Dealer,WA,Black,All-wheel Drive,22,28,Gasoline,7-Speed Automatic with Auto-Shift
+2021,Tesla,Model Y Long Range,Used,"$75,209",Dealer,TX,Black,All-wheel Drive,131,117,Electric,1-Speed Automatic
+2018,Volvo,V90 Cross Country T5,Used,"$50,962",Dealer,TX,Charcoal,All-wheel Drive,23,31,Gasoline,8-Speed Automatic
+2014,Honda,Accord EX-L,Used,"$20,800",Dealer,TX,Gray,Front-wheel Drive,21,34,Gasoline,6-Speed Automatic
+2021,Toyota,4Runner Limited,Used,"$48,000",Dealer,TX,Redwood,Rear-wheel Drive,16,19,Gasoline,5-Speed Automatic
+2019,Audi,Q5 2.0T Premium,Used,"$33,189",Dealer,TX,Rock Gray / Granite Gray,All-wheel Drive,22,27,Gasoline,7-Speed Automatic with Auto-Shift
+2011,Nissan,Murano SL,Used,"$12,998",Dealer,TX,Beige,Front-wheel Drive,18,23,Gasoline,Automatic CVT
+2021,Toyota,4Runner Nightshade,Used,"$55,900",Dealer,TX,Black / Graphite,Four-wheel Drive,16,19,Gasoline,5-Speed Automatic
+2020,Dodge,Challenger SXT,Used,"$27,000",Dealer,TX,Black,Rear-wheel Drive,19,30,Gasoline,8-Speed Automatic
+2019,Audi,Q8 3.0T Premium,Used,"$72,991",Dealer,TX,Black,All-wheel Drive,17,22,Gasoline,8-Speed Automatic
+2021,Kia,Telluride SX,Used,"$51,273",Dealer,TX,Gray,Front-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2018,Hyundai,Elantra SEL,Used,"$15,500",Dealer,KS,Gray,Front-wheel Drive,28,37,Gasoline,6-Speed Automatic
+2020,Mercedes-Benz,GLC 300 Base 4MATIC,Used,"$51,998",Dealer,KS,Black,All-wheel Drive,21,28,Gasoline,9-Speed Automatic
+2020,Kia,Telluride SX,Used,"$50,995",Dealer,TX,Gray,Front-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2018,Porsche,Cayenne Base,Used,"$49,965",Dealer,MO,Saddle Brown,All-wheel Drive,18,24,Gasoline,8-Speed Automatic
+2019,Lincoln,MKZ Standard,Used,"$33,691",Dealer,TX,Cappuccino,Front-wheel Drive,20,31,Gasoline,6-Speed Automatic
+2018,Honda,HR-V LX,Used,"$17,997",Dealer,MN,Black,All-wheel Drive,27,31,Gasoline,Automatic CVT
+2020,Ford,Edge ST,Used,"$43,596",Dealer,MN,Ebony,All-wheel Drive,19,26,Gasoline,8-Speed Automatic
+2020,Hyundai,Palisade Limited,Used,"$45,500",Dealer,MS,Black,Front-wheel Drive,19,26,Gasoline,8-Speed Automatic
+2020,Nissan,Rogue SL,Used,"$33,277",Dealer,LA,Charcoal,Front-wheel Drive,26,33,Gasoline,Automatic CVT
+2019,Buick,Encore Preferred,Used,"$21,989",Dealer,LA,Ebony,Front-wheel Drive,25,30,Gasoline,6-Speed Automatic
+2018,Jeep,Grand Cherokee Limited,Used,"$33,663",Dealer,WI,Black,Four-wheel Drive,18,25,Gasoline,8-Speed Automatic
+2019,Cadillac,XT4 Sport,Used,"$35,998",Dealer,IL,Black,All-wheel Drive,22,29,Gasoline,9-Speed Automatic
+2015,Chevrolet,Tahoe LTZ,Used,"$35,473",Dealer,WI,Jet Black,Four-wheel Drive,16,22,Gasoline,6-Speed Automatic
+2013,Kia,Soul +,Used,"$9,999",Dealer,IL,Black,Front-wheel Drive,23,28,Gasoline,Automatic
+2015,Chevrolet,Silverado 1500 LTZ,Used,"$26,900",Dealer,WI,Jet Black,Four-wheel Drive,16,22,Gasoline,Automatic
+2018,Honda,Civic LX,Used,"$15,995",Dealer,TN,Black,Front-wheel Drive,31,40,Gasoline,Automatic CVT
+2019,Tesla,Model 3 Standard Range Plus,Used,"$49,996",Dealer,GA,Black,Rear-wheel Drive,140,124,Electric,1-Speed Automatic
+2016,Toyota,Highlander Limited Platinum,Used,"$32,979",Dealer,GA,Black,Front-wheel Drive,19,25,Gasoline,6-Speed Automatic
+2020,Chevrolet,Equinox 1LT,Used,"$27,995",Dealer,MI,Jet Black,All-wheel Drive,25,30,Gasoline,6-Speed Automatic
+2019,Hyundai,Elantra SE,Used,"$13,950",Dealer,OH,Gray,Front-wheel Drive,29,38,Gasoline,6-Speed Automatic
+2014,Mercedes-Benz,E-Class E 350,Used,"$21,500",Private,GA,White,Rear-wheel Drive,21,31,Gasoline Fuel,7-Speed A/T
+2019,Mercedes-Benz,GLS 450 GLS 450,Used,"$51,909",Dealer,OH,Black,All-wheel Drive,16,22,Gasoline,9-Speed Automatic
+2020,Land,Rover Range Rover Evoque SE,Used,"$47,500",Dealer,PA,Ebony,All-wheel Drive,20,27,Gasoline,Automatic
+2019,Honda,Civic Sport,Used,"$24,998",Dealer,NC,Black,Front-wheel Drive,29,37,Gasoline,Automatic CVT
+2022,Acura,MDX Base,Used,"$48,998",Dealer,FL,Orchid,Front-wheel Drive,19,26,Gasoline,10-Speed Automatic
+2021,Toyota,Highlander Hybrid Limited,Used,"$48,916",Dealer,FL,Beige,All-wheel Drive,35,34,Hybrid,Automatic CVT
+2020,Nissan,Rogue Sport S,Used,"$22,790",Dealer,FL,Charcoal,Front-wheel Drive,25,32,Gasoline,Automatic CVT
+2021,RAM,1500 Big Horn,Used,"$49,997",Dealer,FL,Light Mountain Brown,Four-wheel Drive,19,24,Gasoline,8-Speed Automatic
+2020,Lincoln,Aviator Black Label AWD,Used,"$70,988",Dealer,FL,Mahogany Red,All-wheel Drive,17,24,Gasoline,10-Speed Automatic
+2015,BMW,328 i xDrive,Used,"$22,495",Dealer,NY,Black,All-wheel Drive,22,33,Gasoline,8-Speed Automatic
+2019,Chevrolet,Tahoe LT,Used,"$42,900",Dealer,VA,Black,Four-wheel Drive,15,21,Gasoline,6-Speed Automatic
+2013,Toyota,Highlander SE,Used,"$19,750",Dealer,VA,Black,All-wheel Drive,17,22,Gasoline,5-Speed Automatic
+2021,Mazda,CX-5 Grand Touring,Used,"$34,590",Private,MD,Black,All-wheel Drive,24,30,Gasoline Fuel,A/T
+2019,Mercedes-Benz,GLS 450 Base 4MATIC,Used,"$48,995",Dealer,VA,Porcelain / Black,All-wheel Drive,16,22,Gasoline,9-Speed Automatic
+2020,Kia,Sorento LX,Used,"$23,972",Dealer,FL,Black,Front-wheel Drive,19,26,Gasoline,8-Speed Automatic
+2014,Land,Rover Range Rover Sport Supercharged HSE,Used,"$29,995",Dealer,VA,Ebony / Lunar / Cirrus,Four-wheel Drive,17,23,Gasoline,8-Speed Automatic
+2014,Lincoln,MKZ Base,Used,"$17,900",Private,FL,Beige,Front-wheel Drive,22,33,Gasoline Fuel,6-Speed A/T
+2019,Jeep,Grand Cherokee Limited,Used,"$31,000",Dealer,FL,Black,Rear-wheel Drive,19,26,Gasoline,8-Speed Automatic
+2019,Jeep,Grand Cherokee Limited,Used,"$34,389",Dealer,NY,Light Frost,Four-wheel Drive,18,25,Gasoline,8-Speed Automatic
+2019,Jeep,Cherokee Latitude Plus,Used,"$28,498",Dealer,PA,Black,Four-wheel Drive,21,29,Gasoline,9-Speed Automatic
+2021,Toyota,Tacoma SR5,Used,"$34,245",Dealer,FL,Black / Red,Rear-wheel Drive,20,23,Gasoline,6-Speed Automatic
+2017,Acura,ILX w/AcuraWatch Plus,Used,"$6,950",Dealer,FL,Ebony,Front-wheel Drive,25,35,Gasoline,8-Speed Automatic with Auto-Shift
+2019,Subaru,Impreza 2.0i Premium,Used,"$22,894",Dealer,PA,Ivory,All-wheel Drive,28,36,Gasoline,Automatic CVT
+2019,Genesis,G80 3.8,Used,"$36,999",Dealer,NJ,Gray,All-wheel Drive,18,24,Gasoline,8-Speed Automatic
+2013,Lexus,GX 460 460,Used,"$23,995",Dealer,NJ,Ecru,Four-wheel Drive,15,20,Gasoline,6-Speed Automatic
+2016,Dodge,Charger R/T Scat Pack,Used,"$39,950",Dealer,NY,Black,Rear-wheel Drive,15,25,Gasoline,8-Speed Automatic
+2017,Mercedes-Benz,E-Class E 300 4MATIC,Used,"$33,016",Dealer,NY,Beige,All-wheel Drive,22,29,Gasoline,9g tronic automatic
+2020,Acura,TLX V6,Used,"$27,990",Dealer,NY,Ebony,Front-wheel Drive,20,31,Gasoline,9-Speed Automatic
+2015,Acura,TLX V6 Advance,Used,"$23,437",Dealer,CT,Gray,All-wheel Drive,21,31,Gasoline,9-Speed Automatic
+2019,Honda,CR-V EX-L,Used,"$31,336",Dealer,MA,Gray,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2020,Dodge,Durango GT,Used,"$45,899",Dealer,MA,Black,All-wheel Drive,18,25,Gasoline,8-SPEED A/T
+2004,Jeep,Grand Cherokee Limited,Used,"$6,990",Dealer,CA,Dark Slate Gray,Four-wheel Drive,16,21,Gasoline,5-Speed Automatic
+2021,Audi,Q8 55 Premium,Used,"$76,988",Dealer,NV,Black,All-wheel Drive,18,23,Gasoline,8-Speed Automatic
+2018,Mazda,CX-5 Grand Touring,Used,"$27,500",Dealer,CA,Black,Front-wheel Drive,25,31,Gasoline,6-Speed Automatic
+2020,Toyota,Corolla SE,Used,"$25,995",Dealer,AZ,Black,Front-wheel Drive,31,40,Gasoline,Automatic CVT
+2018,Tesla,Model S 75D,Used,"$60,000",Dealer,AZ,Black,All-wheel Drive,102,105,Electric,1-Speed Automatic
+2014,Subaru,XV Crosstrek 2.0i Premium,Used,"$14,900",Dealer,AZ,Black,All-wheel Drive,23,30,Gasoline,5-Speed Manual
+2019,BMW,X5 xDrive40i,Used,"$53,989",Dealer,UT,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2020,BMW,X3 xDrive30i,Used,"$40,998",Dealer,CO,Black,All-wheel Drive,24,29,Gasoline,8-Speed Automatic
+2017,BMW,X3 xDrive28i,Used,"$32,199",Dealer,WA,Mocha,All-wheel Drive,21,28,Gasoline,Automatic
+2017,Kia,Sorento SX,Used,"$25,999",Dealer,SD,Gray,All-wheel Drive,17,23,Gasoline,6-Speed Automatic
+2018,BMW,X3 xDrive30i,Used,"$33,962",Dealer,TX,Black,All-wheel Drive,22,29,Gasoline,8-Speed Automatic
+2020,Mercedes-Benz,GLC 300 Base,Used,"$42,888",Dealer,TX,Black,Rear-wheel Drive,22,29,Gasoline,9-Speed Automatic
+2021,Mercedes-Benz,GLE 350,Used,"$64,980",Dealer,TX,Black,All-wheel Drive,19,26,Gasoline,9-Speed Automatic
+2020,BMW,750 i xDrive,Used,"$78,790",Dealer,TX,Black,All-wheel Drive,17,25,Gasoline,8-Speed Automatic
+2021,Honda,Pilot Special Edition,Used,"$41,991",Dealer,TX,Black,Front-wheel Drive,20,27,Gasoline,9-Speed Automatic
+2017,Lexus,GS 350 F Sport,Used,"$39,988",Dealer,TX,Red,Rear-wheel Drive,19,27,Gasoline,8-Speed Automatic
+2021,Toyota,Highlander Limited,Used,"$48,995",Dealer,TX,Black,Front-wheel Drive,21,29,Gasoline,8-Speed Automatic
+2019,Subaru,Outback 2.5i Limited,Used,"$26,947",Dealer,SD,Black,All-wheel Drive,25,32,Gasoline,Automatic CVT
+2019,Land,Rover Range Rover SV Autobiography Dynamic,Used,"$140,000",Dealer,MO,Ebony / Cirrus,Four-wheel Drive,14,19,Gasoline,Automatic
+2019,INFINITI,QX60 Luxe,Used,"$34,989",Dealer,TX,Wheat,Front-wheel Drive,20,27,Gasoline,Automatic CVT
+2021,GMC,Yukon Denali,Used,"$78,749",Dealer,TX,Jet Black,Rear-wheel Drive,15,20,Gasoline,10-Speed Automatic
+2020,Honda,Passport EX-L,Used,"$38,998",Dealer,MN,Black,All-wheel Drive,19,24,Gasoline,Automatic
+2018,Toyota,RAV4 Limited,Used,"$33,675",Dealer,MN,Black,All-wheel Drive,22,28,Gasoline,6-Speed Automatic
+2014,Mazda,Mazda3 i SV,Used,"$12,987",Dealer,MN,Black,Front-wheel Drive,30,41,Gasoline,Automatic 6-Speed
+2020,Kia,Stinger GT2,Used,"$47,000",Dealer,MO,Black,All-wheel Drive,17,25,Gasoline,8-Speed Automatic
+2020,Acura,TLX A-Spec,Used,"$38,749",Dealer,MO,Red,All-wheel Drive,20,29,Gasoline,9-Speed Automatic
+2021,Audi,A6 55 Premium Plus,Used,"$50,591",Dealer,MO,Black,All-wheel Drive,23,31,Gasoline,7-Speed Automatic
+2021,Tesla,Model Y Performance,Used,"$74,000",Dealer,MO,White / Black,All-wheel Drive,115,106,Electric,1-Speed Automatic
+2019,Honda,CR-V EX-L,Used,"$35,573",Dealer,MO,Gray,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2019,BMW,X5 xDrive40i,Used,"$52,767",Dealer,IL,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2020,Ford,Mustang GT,Used,"$62,977",Dealer,IL,Black,Rear-wheel Drive,15,24,Gasoline,10-Speed Automatic
+2019,Tesla,Model 3 Performance,Used,"$57,775",Dealer,IL,Black,All-wheel Drive,120,112,Electric,1-Speed Automatic
+2018,Dodge,Durango GT,Used,"$33,995",Dealer,IL,Black,All-wheel Drive,18,25,Gasoline,8-Speed Automatic
+2016,Toyota,4Runner Limited,Used,"$35,910",Dealer,IN,Redwood,Four-wheel Drive,17,21,Gasoline,5-Speed Automatic
+2019,INFINITI,QX80 Luxe,Used,"$46,733",Dealer,TN,Graphite / Stone,Rear-wheel Drive,14,20,Gasoline,7-Speed Automatic
+2019,BMW,X5 xDrive40i,Used,"$55,488",Dealer,TN,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2020,Subaru,Ascent Touring 7-Passenger,Used,"$42,999",Dealer,AL,Java Brown,All-wheel Drive,20,26,Gasoline,Automatic CVT
+2018,Mercedes-Benz,C-Class C 300,Used,"$29,809",Dealer,AL,Black,Rear-wheel Drive,24,33,Gasoline,9-Speed Automatic
+2020,Tesla,Model Y Long Range,Used,"$69,000",Dealer,IN,Black,All-wheel Drive,127,114,Electric,1-Speed Automatic
+2019,Honda,Pilot EX-L,Used,"$34,447",Dealer,IN,Black,Front-wheel Drive,19,27,Gasoline,6-Speed Automatic
+2018,Jeep,Wrangler Unlimited Sahara,Used,"$42,980",Dealer,MI,Black,Four-wheel Drive,17,23,Gasoline,8-Speed Automatic
+2016,Subaru,Forester 2.5i Touring,Used,"$26,405",Dealer,OH,Gray,All-wheel Drive,24,32,Gasoline,Automatic CVT
+2015,Jeep,Wrangler Unlimited Sport,Used,"$26,996",Dealer,GA,Black,Four-wheel Drive,16,21,Gasoline,5-Speed Automatic
+2020,Lexus,RX 350 Base,Used,"$50,430",Dealer,GA,Parchment,Front-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2019,Volkswagen,Jetta 1.4T S,Used,"$19,982",Dealer,GA,Storm Gray,Front-wheel Drive,30,40,Gasoline,8-Speed Automatic
+2020,Land,Rover Range Rover Evoque SE,Used,"$42,080",Dealer,GA,Ebony / Ebony,All-wheel Drive,20,27,Gasoline,Automatic
+2016,Ford,Mustang GT,Used,"$24,995",Dealer,SC,Black,Rear-wheel Drive,15,25,Gasoline,6-Speed Automatic
+2017,Ford,Focus RS Base,Used,"$37,438",Dealer,NC,Charcoal Black,All-wheel Drive,19,25,Gasoline,6-Speed Manual
+2018,Alfa,Romeo Stelvio Base,Used,"$26,504",Dealer,FL,Black,All-wheel Drive,22,28,Gasoline,8-Speed Automatic
+2016,Jaguar,F-TYPE S,Used,"$53,222",Dealer,SC,Jet,All-wheel Drive,18,26,Gasoline,8-Speed Automatic
+2021,Honda,Pilot EX-L,Used,"$34,071",Dealer,FL,Black,Front-wheel Drive,20,27,Gasoline,9-Speed Automatic
+2020,Ford,EcoSport S,Used,"$8,995",Dealer,VA,Medium Stone,Four-wheel Drive,23,29,Gasoline,6-Speed Automatic
+2019,BMW,X5 xDrive40i,Used,"$56,438",Dealer,NC,Black,All-wheel Drive,20,26,Gasoline,8-Speed Automatic
+2004,Ford,F-150 XLT SuperCrew,Used,"$7,990",Dealer,VA,Gray,Four-wheel Drive,14,18,Gasoline,4-Speed Automatic
+2019,Mazda,CX-5 Grand Touring,Used,"$30,995",Dealer,NY,Black,All-wheel Drive,24,30,Gasoline,6-Speed Automatic
+2019,Audi,RS 5 2.9T,Used,"$77,895",Dealer,VA,Black / Crescendo Red,All-wheel Drive,18,27,Gasoline,8-Speed Automatic
+2013,BMW,X3 xDrive28i,Used,"$13,750",Dealer,VA,Beige,All-wheel Drive,21,28,Gasoline,8-Speed Automatic
+2015,Volkswagen,Golf TSI S 2-Door,Used,"$16,500",Dealer,VA,Titan Black,Front-wheel Drive,25,37,Gasoline,5-Speed Manual
+2016,Audi,A7 3.0T Prestige,Used,"$33,995",Dealer,VA,Black,All-wheel Drive,20,30,Gasoline,8-Speed Automatic
+2019,Mercedes-Benz,GLS 450 Base 4MATIC,Used,"$57,427",Dealer,MD,Espresso Brown,All-wheel Drive,16,22,Gasoline,9-Speed Automatic
+2020,Toyota,Avalon XSE,Used,"$40,591",Dealer,MD,Black,Front-wheel Drive,22,31,Gasoline,8-Speed Automatic
+2019,Mercedes-Benz,CLA 250 Base,Used,"$28,990",Dealer,FL,Black,Front-wheel Drive,24,37,Gasoline,7-Speed Automatic with Auto-Shift
+2019,Lexus,RX 350 350,Used,"$46,788",Dealer,FL,Gray,Front-wheel Drive,20,28,Gasoline,8-Speed Automatic
+2020,BMW,X3 xDrive30i,Used,"$43,052",Dealer,NJ,Cognac,All-wheel Drive,24,29,Gasoline,8-Speed Automatic
+2019,BMW,330 i xDrive,Used,"$29,595",Dealer,NJ,Canberra Beige,All-wheel Drive,25,34,Gasoline,8-SPEED A/T
+2019,Mercedes-Benz,S-Class S 560 4MATIC,Used,"$52,998",Dealer,NY,Brown,All-wheel Drive,17,27,Gasoline,9-Speed Automatic
+2019,Subaru,Crosstrek 2.0i Premium,Used,"$25,999",Dealer,NY,Gray,All-wheel Drive,27,33,Gasoline,Automatic CVT
+2018,Honda,Accord Touring 2.0T,Used,"$31,500",Dealer,NY,Black,Front-wheel Drive,22,32,Gasoline,10-Speed Automatic
+2019,BMW,540 i xDrive,Used,"$39,950",Dealer,NY,Cognac,All-wheel Drive,21,29,Gasoline,8-Speed Automatic
+2020,GMC,Sierra 1500 Elevation,Used,"$39,999",Dealer,VT,Black,Four-wheel Drive,19,22,Gasoline,8-Speed Automatic
+2011,Volkswagen,Jetta SE,Used,"$5,999",Dealer,CT,Titan Black,Front-wheel Drive,24,31,Gasoline,6-Speed Automatic
+2012,Volkswagen,Tiguan SE,Used,"$10,995",Dealer,CT,Black,All-wheel Drive,21,27,Gasoline,6-Speed Automatic
+2016,BMW,X3 xDrive28i,Used,"$25,985",Dealer,CT,Sand Beige,All-wheel Drive,21,28,Gasoline,8-Speed Automatic
+2019,Toyota,Corolla SE,Used,"$23,998",Dealer,NH,Black,Front-wheel Drive,28,35,Gasoline,Automatic CVT
+2019,MINI,Convertible Cooper,Used,"$26,975",Dealer,MA,Black,Front-wheel Drive,28,37,Gasoline,6-Speed Automatic
+2020,Audi,Q5 45 Premium,Used,"$37,900",Dealer,CA,Black,All-wheel Drive,22,28,Gasoline,7-Speed Automatic with Auto-Shift
+2018,Mazda,Mazda3 Sport,Used,"$18,807",Dealer,CA,Black,Front-wheel Drive,28,37,Gasoline,6-Speed Automatic
+2019,Alfa,Romeo Stelvio Ti Sport,Used,"$34,495",Dealer,CA,Sport,All-wheel Drive,22,28,Gasoline,8-Speed Automatic
+2017,Kia,Sorento LX,Used,"$18,995",Dealer,CA,Satin Black,Front-wheel Drive,21,28,Gasoline,6-Speed Automatic
+2018,Audi,Q5 2.0T Premium Plus,Used,"$34,998",Dealer,CA,Black,All-wheel Drive,23,27,Gasoline,7-Speed Automatic with Auto-Shift
+2019,Audi,A6 55 Premium Plus,Used,"$46,177",Dealer,NV,Black,All-wheel Drive,22,29,Hybrid,7-Speed Automatic with Auto-Shift
+2020,Acura,MDX 3.5L w/Technology Package,Used,"$42,999",Dealer,CA,Ebony,Front-wheel Drive,20,27,Gasoline,9-Speed Automatic
+2019,BMW,X1 sDrive28i,Used,"$31,998",Dealer,CA,Oyster / Black,Front-wheel Drive,23,32,Gasoline,8-Speed Automatic
+2016,Lexus,NX 200t Base,Used,"$28,998",Dealer,AZ,Black,Front-wheel Drive,22,28,Gasoline,6-Speed Automatic
+2021,Ford,Explorer XLT,Used,"$45,989",Dealer,ID,Ebony With Light Slate Uppers,Four-wheel Drive,20,27,Gasoline,Automatic
+2017,Dodge,Charger SRT 392,Used,"$45,991",Dealer,KS,Black,Rear-wheel Drive,15,25,Gasoline,8-Speed Automatic
+2016,Ford,F-150 Lariat,Used,"$33,980",Dealer,OK,Black,Four-wheel Drive,15,21,E85 Flex Fuel,6-Speed Automatic
+2020,Hyundai,Santa Fe Limited 2.0T,Used,"$37,993",Dealer,TX,Black,Front-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2019,Volvo,XC60 T5 Momentum,Used,"$42,962",Dealer,TX,Charcoal,All-wheel Drive,20,27,Gasoline,8-Speed Automatic
+2020,Acura,TLX FWD,Used,"$33,899",Dealer,TX,Ebony,Front-wheel Drive,23,33,Gasoline,8-Speed Automatic with Auto-Shift
+2016,Hyundai,Veloster Turbo,Used,"$13,999",Dealer,TX,Black,Front-wheel Drive,27,33,Gasoline,7-Speed Automatic with Auto-Shift
+2021,Toyota,Sienna XSE 7 Passenger,Used,"$64,991",Dealer,TX,Graphite,Front-wheel Drive,36,36,Hybrid,Automatic CVT
+2017,Lincoln,MKZ Hybrid Reserve,Used,"$27,993",Dealer,TX,Ebony,Front-wheel Drive,41,38,Hybrid,Automatic CVT
+2020,Nissan,Rogue SL,Used,"$30,991",Dealer,TX,Beige,Front-wheel Drive,26,33,Gasoline,Automatic CVT
+2016,Ford,Explorer Limited,Used,"$22,000",Private,TX,Beige,Front-wheel Drive,17,24,Flex Fuel Capability,Transmission w/Dual Shift Mode
+2017,Chevrolet,Equinox LT,Used,"$18,495",Dealer,TX,Jet Black,Front-wheel Drive,21,31,Gasoline,6-Speed Automatic
+2014,Mercedes-Benz,E-Class E 350,Used,"$23,491",Dealer,TX,Sport,RWD,21,30,Gasoline,7-Speed Automatic
+2019,Mazda,CX-9 Touring,Used,"$32,998",Dealer,MN,Black,All-wheel Drive,20,26,Gasoline,Automatic
+2019,Subaru,Impreza 2.0i Sport,Used,"$21,498",Dealer,MN,Black,All-wheel Drive,27,36,Gasoline,Automatic CVT
+2017,Subaru,Forester 2.5i Premium,Used,"$17,854",Dealer,MN,Gray,All-wheel Drive,26,32,Gasoline,Automatic CVT
+2013,Audi,A6 2.0T Premium Plus quattro,Used,"$19,990",Dealer,MN,Black,All-wheel Drive,20,30,Gasoline,8-Speed Automatic
+2017,Volvo,XC60 T6 Dynamic,Used,"$26,998",Dealer,MN,Off Black,All-wheel Drive,19,27,Gasoline,8-Speed Automatic
+2021,Jeep,Grand Cherokee 80th Anniversary,Used,"$45,700",Private,MO,Black,Four-wheel Drive,18,25,Gasoline Fuel,8-Speed A/T
+2019,Jeep,Grand Cherokee Limited,Used,"$37,690",Dealer,MO,Black,Four-wheel Drive,18,25,Gasoline,Automatic
+2016,Toyota,Highlander Limited,Used,"$28,995",Dealer,KY,Black,Front-wheel Drive,19,25,Gasoline,6-Speed Automatic
+2019,Ford,F-150 Raptor,Used,"$51,951",Dealer,IL,Blue,Four-wheel Drive,15,18,Gasoline,10-Speed Automatic
+2016,Toyota,4Runner SR5 Premium,Used,"$33,499",Dealer,IL,Black / Graphite,Four-wheel Drive,17,21,Gasoline,5-Speed Automatic
+2015,Toyota,RAV4 Limited,Used,"$27,450",Dealer,IL,Terracotta,All-wheel Drive,22,29,Gasoline,Automatic
+2019,Audi,Q8 3.0T Premium,Used,"$69,095",Dealer,IL,Black,All-wheel Drive,17,22,Gasoline,8-Speed Automatic
+2018,BMW,X3 xDrive30i,Used,"$39,995",Dealer,IL,Black,All-wheel Drive,22,29,Gasoline,8-Speed Automatic
+2019,Audi,SQ5 3.0T Premium,Used,"$50,000",Dealer,IL,Black,All-wheel Drive,19,24,Gasoline,8-Speed Automatic
+2016,Lexus,IS 300 Base,Used,"$24,995",Dealer,GA,Black,All-wheel Drive,19,26,Gasoline,6-Speed Automatic
+2018,Mercedes-Benz,GLS 450 Base 4MATIC,Used,"$50,906",Dealer,GA,Black,All-wheel Drive,17,22,Gasoline,9-Speed Automatic
+2021,Lexus,NX 300 Base,Used,"$40,788",Dealer,GA,Cream,Front-wheel Drive,22,28,Gasoline,6-Speed Automatic
+2019,Lincoln,MKZ Reserve I,Used,"$33,500",Dealer,MI,Cappuccino,All-wheel Drive,20,29,Gasoline,6-Speed Automatic
